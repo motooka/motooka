@@ -1,8 +1,8 @@
 @motooka is a programmer, who...
 
-## is 😊
+## is 🤗
 - a Japanese 🇯🇵 programmer | 日本のプログラマです
-- also an amateur musician : plays brass instruments 🎺 [YouTube channel](https://www.youtube.com/channel/UCbdwwQNRq0UvDp1OhWzd7IA) | アマチュア金管楽器奏者です。YouTubeチャンネルへのリンクは左記参照のこと。
+- also an amateur musician : plays brass instruments 🎺 [YouTube channel](https://www.youtube.com/channel/UCbdwwQNRq0UvDp1OhWzd7IA) | アマチュア金管楽器奏者です。[YouTubeチャンネルはこちら](https://www.youtube.com/channel/UCbdwwQNRq0UvDp1OhWzd7IA)
 
 ## Creates 🛠
 - Web applications (PHP) 🐘, especially [CRM](https://en.wikipedia.org/wiki/Customer_relationship_management) applications 🤝 | Webアプリ開発をします。特に「CRM」と呼ばれるものが多いです。
@@ -11,9 +11,9 @@
 - SVG graphics, written with text editors 📝
 - ...and some other small tools 🐜
 
-Published products are listed in [my website, written in Japanese](https://www.tmotooka.com/). But, most of my products are managed in private repos 😅 
+Published products are listed in [my website, written in Japanese](https://www.tmotooka.com/). Please note that most of my products are private 😅 
 
-公開されている製品は [Webサイト](https://www.tmotooka.com/) に列挙してあります。しかし、多くの製品は private repo の中です。
+公開されている製品は [Webサイト](https://www.tmotooka.com/) に列挙してあります。ほとんどの製品は機密情報であり公開されていないことにはご注意下さい。
 
 ## Prefers 😋
 - statically typed languages over dynamically typed ones | 動的型付け言語よりは静的型付け言語が好みです。

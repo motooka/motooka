@@ -27,10 +27,14 @@ Published products are listed in [my website, written in Japanese](https://www.t
 
 ### Can I ask you to translate English apps/libraries into Japanese and vice versa? | 日英翻訳とかお願いできる？
 Yes 😃
-If I'm interested in your product and I have enough time, I will do it 💪
-If not, it will require some cost 🤑
 
-可能です。対象の製品に私が興味を持ち、かつ私に時間的余裕があればやります。そうでないなら、費用がかかります。
+If all of the following conditions are `true`, I will do it 💪 Otherwise, it will require some cost 🤑
+- The product is an Open Source Software, which is distributed under MIT, GPL, and some other OSS licenses
+- My name will appear in the list of contributors
+- I'm interested in the product
+- I have enough time to do it
+
+可能です。対象の製品がMITやGPL等で配布されているOSSであり、かつ私の名前が貢献者リストに加えられ、かつ私が興味を持ち、かつ私に時間的余裕があればやります。そうでないなら、費用がかかります。
 
 ### Are you looking for a job? | 仕事を探している？
 Currently, no. But I believe that it's important to have conversation with you 😘, and my company can act as an outsourcee.
